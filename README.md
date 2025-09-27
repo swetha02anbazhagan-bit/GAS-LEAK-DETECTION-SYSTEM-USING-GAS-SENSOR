@@ -1,4 +1,4 @@
-[
+
 # GAS-LEAK-DETECTION-SYSTEM-USING-GAS-SENSOR
 
 ## Aim:
@@ -85,4 +85,3 @@ https://github.com/user-attachments/assets/64723aab-f072-4c1d-8803-7e44f8f8804f
 
 ## Result :
 The quality of air is measured using Gas Sensor MQ-2 with Arduino UNO Board/ESP-32 using Tinker CAD Verified Successfully.
-](https://github.com/swetha02anbazhagan-bit/OBSTACLE-DETECTION-SYSTEM-USING-ULTRASONIC-SENSOR/tree/main)
